@@ -41,9 +41,9 @@ LATESTARTSERVICE=false
 # Set what you want to show when installing your mod
 
 print_modname() {
-  ui_print "*******************************"
-  ui_print "     Magisk Module Template    "
-  ui_print "*******************************"
+  ui_print "******************************************"
+  ui_print "   Emoji Oreo and Fonts from Xperia XZ1   "
+  ui_print "******************************************"
 }
 
 ##########################################################################################
