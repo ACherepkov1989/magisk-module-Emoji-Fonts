@@ -4,4 +4,4 @@ version=v2.003
 versionCode=1
 author=GreyLeshy
 description=
-template=1410
+minMagisk=1500
